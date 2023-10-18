@@ -7,7 +7,8 @@ YouTube clone project is video sharing platform where user can create own channe
 https://github.com/yj1910/Youtube_Clone/assets/83238190/0b291e94-e301-4568-b65e-524bf7783a47
 
 
-# Local setup
+
+## Local setup
 Import the project file in your local. Open in IDE and open terminal
 
 **To install dependencies, run:**
